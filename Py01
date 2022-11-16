@@ -1,0 +1,30 @@
+#EXTM3U
+
+#EXTINF:-14 tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="NACIONALES", LIMTV
+
+https://live.limplay.ml/limtv.m3u8
+
+#EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png" group-title="NACIONALES" ,NPY
+
+http://170.83.242.152:5350/play/a024
+
+#EXTINF:-3 tvg-logo="https://paraguaype.com/wp-content/uploads/2016/07/tvs-encarnacion-televisora-del-sur-en-vivo-online.jpg" group-title="NACIONALES", TVS
+
+https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8?k=1d25209afd7c9b0e4898d35c8295d449ff87b42c53ea4da38aae4d2d9614c9a7&exp=1611679347
+
+#EXTINF:-4 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="NACIONALES", TELEFUTURO
+
+http://200.41.79.165:8000/play/a0hy/index.m3u8
+
+#EXTINF:-5 tvg-logo="https://i.postimg.cc/vTXJBszc/paravision.png" group-title="NACIONALES", PARAVISIÓN
+
+http://170.83.242.152:5350/play/a021
+
+#EXTINF:-6 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png/1200px-LOGO_MITV_ALTA_DEFINICION_2020_PNG.png" group-title="NACIONALES", MI TV
+
+https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w735296660.m3u8
+
+#EXTINF:-7 tvg-logo="https://i.postimg.cc/Fsx70D6t/capiatatv.jpg" group-title="NACIONALES", CAPIATÁ TV
+
+https://59ce1298bfb98.streamlock.net/capiatatv16/capiatatv16/chunklist_w1635313830.m3u8
+
